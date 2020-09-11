@@ -18,7 +18,7 @@ namespace CertificationClio.Files.cs
 	{
        public override void OnSaving(object sender, EntityBeforeEventArgs e)
         {
-            //Calling CreateSOAPWebRequest method test 
+            //Calling CreateSOAPWebRequest method test1
             HttpWebRequest request = CreateSOAPWebRequest();
 
             string val = "";
