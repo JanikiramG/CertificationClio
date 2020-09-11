@@ -1,0 +1,21 @@
+{
+  "Descriptor": {
+    "UId": "11bc943b-bac9-4fac-84fb-6ffc52faa7f9",
+    "PackageVersion": "7.8.0",
+    "Name": "CertificationClio",
+    "ModifiedOnUtc": "/Date(1598712299000)/",
+    "Maintainer": "",
+    "DependsOn": [
+	{
+        "UId": "0ece3a34-413f-415b-919b-7b29bb31701f",
+        "PackageVersion": "7.8.0",
+        "Name": "SalesEnterpriseSoftkey_Obsolete"
+      },
+      {
+        "UId": "d7559847-f38e-410c-baee-6f43bbe80d42",
+        "PackageVersion": "7.8.0",
+        "Name": "SalesEnterpriseSoftkey_ENU"
+      }
+	]
+  }
+}
